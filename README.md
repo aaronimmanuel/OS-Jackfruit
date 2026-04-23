@@ -1,14 +1,3 @@
-# OS Project – Multi-Container Runtime
-
-## Name: Deepthi N Reddy
-SRN : PES2UG24CS149
-
-
-## Name : Ganvai Purushothama
-SRN : PES2UG24CS167
-## Course: Operating Systems Lab  
-
----
 
 # Task 1: Container Engine Implementation
 
